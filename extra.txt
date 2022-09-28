@@ -1,0 +1,4 @@
+//data types//
+there are two types of data types
+1)primitive data types//int,long,double,short,byte,float,char,bool
+2)non primitive data types//
